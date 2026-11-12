@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0f766e"/><stop offset=".55" stop-color="#1d4ed8"/><stop offset="1" stop-color="#4c1d95"/></linearGradient></defs>
+<rect width="1200" height="300" rx="22" fill="url(#bg)"/>
+<circle cx="1080" cy="40" r="170" fill="#fff" fill-opacity=".06"/><circle cx="960" cy="290" r="120" fill="#fff" fill-opacity=".06"/>
+<g transform="translate(70,48) scale(.9)"><rect width="128" height="128" rx="28" fill="#fff" fill-opacity=".16"/>
+<rect x="26" y="70" width="14" height="30" rx="4" fill="#fff" opacity=".6"/><rect x="48" y="56" width="14" height="44" rx="4" fill="#fff" opacity=".8"/><rect x="70" y="62" width="14" height="38" rx="4" fill="#fff" opacity=".6"/>
+<circle cx="86" cy="44" r="24" fill="#fbbf24" stroke="#fff" stroke-width="4"/><text x="86" y="53" text-anchor="middle" font-family="Arial,sans-serif" font-weight="700" font-size="26" fill="#92400e">Rs</text></g>
+<text x="205" y="105" font-family="Segoe UI,Arial,sans-serif" font-size="20" letter-spacing="4" fill="#99f6e4">PYTHON ADVANCED  |  TASK 1</text>
+<text x="203" y="165" font-family="Segoe UI,Arial,sans-serif" font-size="60" font-weight="800" fill="#fff">Expense Tracker</text>
+<text x="205" y="195" font-family="Segoe UI,Arial,sans-serif" font-size="22" fill="#e0e7ff">Record, validate and analyse your spending from the terminal</text>
+<rect x="70" y="210" width="118" height="36" rx="18" fill="#ffffff" fill-opacity=".18"/><text x="129" y="233" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="16" fill="#fff">Python 3</text><rect x="202.0" y="210" width="160" height="36" rx="18" fill="#ffffff" fill-opacity=".18"/><text x="282" y="233" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="16" fill="#fff">JSON storage</text><rect x="376.0" y="210" width="192" height="36" rx="18" fill="#ffffff" fill-opacity=".18"/><text x="472" y="233" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="16" fill="#fff">CSV / MD export</text><rect x="581.5" y="210" width="66" height="36" rx="18" fill="#ffffff" fill-opacity=".18"/><text x="614" y="233" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="16" fill="#fff">CLI</text>
+</svg>

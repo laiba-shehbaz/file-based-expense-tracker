@@ -1,0 +1,166 @@
+{
+  "version": 1,
+  "expenses": [
+    {
+      "id": 1,
+      "amount": 18500,
+      "category": "Bills",
+      "date": "2026-09-01",
+      "description": "Electricity bill"
+    },
+    {
+      "id": 2,
+      "amount": 4200,
+      "category": "Food",
+      "date": "2026-09-03",
+      "description": "Monthly groceries"
+    },
+    {
+      "id": 3,
+      "amount": 1500,
+      "category": "Transport",
+      "date": "2026-09-05",
+      "description": "Fuel"
+    },
+    {
+      "id": 4,
+      "amount": 3200,
+      "category": "Education",
+      "date": "2026-09-09",
+      "description": "Online course"
+    },
+    {
+      "id": 5,
+      "amount": 2800,
+      "category": "Shopping",
+      "date": "2026-09-14",
+      "description": "Clothes"
+    },
+    {
+      "id": 6,
+      "amount": 950,
+      "category": "Entertainment",
+      "date": "2026-09-20",
+      "description": "Cinema tickets"
+    },
+    {
+      "id": 7,
+      "amount": 1800,
+      "category": "Health",
+      "date": "2026-09-25",
+      "description": "Pharmacy"
+    },
+    {
+      "id": 8,
+      "amount": 19200,
+      "category": "Bills",
+      "date": "2026-10-01",
+      "description": "Electricity and gas bill"
+    },
+    {
+      "id": 9,
+      "amount": 5100,
+      "category": "Food",
+      "date": "2026-10-02",
+      "description": "Monthly groceries"
+    },
+    {
+      "id": 10,
+      "amount": 1700,
+      "category": "Transport",
+      "date": "2026-10-06",
+      "description": "Fuel"
+    },
+    {
+      "id": 11,
+      "amount": 650,
+      "category": "Food",
+      "date": "2026-10-08",
+      "description": "Lunch with friends"
+    },
+    {
+      "id": 12,
+      "amount": 7500,
+      "category": "Shopping",
+      "date": "2026-10-12",
+      "description": "Shoes and bag"
+    },
+    {
+      "id": 13,
+      "amount": 2400,
+      "category": "Health",
+      "date": "2026-10-15",
+      "description": "Doctor consultation"
+    },
+    {
+      "id": 14,
+      "amount": 1200,
+      "category": "Entertainment",
+      "date": "2026-10-19",
+      "description": "Streaming and games"
+    },
+    {
+      "id": 15,
+      "amount": 3000,
+      "category": "Education",
+      "date": "2026-10-24",
+      "description": "Books and stationery"
+    },
+    {
+      "id": 16,
+      "amount": 900,
+      "category": "Transport",
+      "date": "2026-10-29",
+      "description": "Ride-hailing"
+    },
+    {
+      "id": 17,
+      "amount": 17800,
+      "category": "Bills",
+      "date": "2026-11-01",
+      "description": "Electricity bill"
+    },
+    {
+      "id": 18,
+      "amount": 4800,
+      "category": "Food",
+      "date": "2026-11-02",
+      "description": "Monthly groceries"
+    },
+    {
+      "id": 19,
+      "amount": 1600,
+      "category": "Transport",
+      "date": "2026-11-04",
+      "description": "Fuel"
+    },
+    {
+      "id": 20,
+      "amount": 2200,
+      "category": "Entertainment",
+      "date": "2026-11-07",
+      "description": "Weekend trip snacks"
+    },
+    {
+      "id": 21,
+      "amount": 3500,
+      "category": "Health",
+      "date": "2026-11-09",
+      "description": "Medicines and lab test"
+    },
+    {
+      "id": 22,
+      "amount": 1350,
+      "category": "Food",
+      "date": "2026-11-10",
+      "description": "Dinner out"
+    },
+    {
+      "id": 23,
+      "amount": 4100,
+      "category": "Shopping",
+      "date": "2026-11-11",
+      "description": "Home items"
+    }
+  ]
+}

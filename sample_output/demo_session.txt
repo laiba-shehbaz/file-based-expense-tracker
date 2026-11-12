@@ -1,0 +1,182 @@
+
+╔══════════════════════════════════════════════╗
+║             💰  EXPENSE TRACKER              ║
+╚══════════════════════════════════════════════╝
+  Data file : /tmp/demo.json
+  Records   : 23
+
+MAIN MENU
+  1. Add expense
+  2. List expenses
+  3. Edit expense
+  4. Delete expense
+  5. Monthly totals
+  6. Category summary
+  7. Export report
+  0. Exit
+Choose an option: 1
+
+➕ Add expense
+  Existing categories: Bills, Education, Entertainment, Food, Health, Shopping, Transport
+  Amount: abc
+  ✗ Amount must be a number, e.g. 1250.50
+  Amount: -50
+  ✗ Amount must be greater than zero
+  Amount: 1200.505
+  ✗ Use at most 2 decimal places
+  Amount: 1200.50
+  Category: Food
+  Date (YYYY-MM-DD, Enter = today): 2026-13-45
+  ✗ Date must be a real date in YYYY-MM-DD format
+  Date (YYYY-MM-DD, Enter = today): 2026-11-12
+  Description (optional): Team lunch
+  ✓ Saved expense #24: Rs 1,200.50 - Food on 2026-11-12
+
+MAIN MENU
+  1. Add expense
+  2. List expenses
+  3. Edit expense
+  4. Delete expense
+  5. Monthly totals
+  6. Category summary
+  7. Export report
+  0. Exit
+Choose an option: 3
+
+✏️  Edit expense
+  ID of the expense to edit: 99
+  ✗ No expense with ID 99
+
+MAIN MENU
+  1. Add expense
+  2. List expenses
+  3. Edit expense
+  4. Delete expense
+  5. Monthly totals
+  6. Category summary
+  7. Export report
+  0. Exit
+Choose an option: 3
+
+✏️  Edit expense
+  ID of the expense to edit: 24
+  Press Enter to keep a value. Type - to clear the description.
+  Amount [1200.50]: 1250
+  Category [Food]: 
+  Date [2026-11-12]: 
+  Description [Team lunch]: Team lunch at office
+  ✓ Expense #24 updated
+
+MAIN MENU
+  1. Add expense
+  2. List expenses
+  3. Edit expense
+  4. Delete expense
+  5. Monthly totals
+  6. Category summary
+  7. Export report
+  0. Exit
+Choose an option: 4
+
+🗑️  Delete expense
+  ID of the expense to delete: 24
+  2026-11-12 | Food | Rs 1,250.00 | Team lunch at office
+  Delete this record? (y/N): y
+  ✓ Expense #24 deleted
+
+MAIN MENU
+  1. Add expense
+  2. List expenses
+  3. Edit expense
+  4. Delete expense
+  5. Monthly totals
+  6. Category summary
+  7. Export report
+  0. Exit
+Choose an option: 2
+
+📋 Expenses
+  Filter by month (YYYY-MM, Enter = all): 2026-11
++-----+------------+---------------+--------------+------------------------+
+|  ID | Date       | Category      |       Amount | Description            |
++-----+------------+---------------+--------------+------------------------+
+|  17 | 2026-11-01 | Bills         | Rs 17,800.00 | Electricity bill       |
+|  18 | 2026-11-02 | Food          |  Rs 4,800.00 | Monthly groceries      |
+|  19 | 2026-11-04 | Transport     |  Rs 1,600.00 | Fuel                   |
+|  20 | 2026-11-07 | Entertainment |  Rs 2,200.00 | Weekend trip snacks    |
+|  21 | 2026-11-09 | Health        |  Rs 3,500.00 | Medicines and lab test |
+|  22 | 2026-11-10 | Food          |  Rs 1,350.00 | Dinner out             |
+|  23 | 2026-11-11 | Shopping      |  Rs 4,100.00 | Home items             |
++-----+------------+---------------+--------------+------------------------+
+  7 record(s), total Rs 35,350.00
+
+MAIN MENU
+  1. Add expense
+  2. List expenses
+  3. Edit expense
+  4. Delete expense
+  5. Monthly totals
+  6. Category summary
+  7. Export report
+  0. Exit
+Choose an option: 5
+
+📅 Monthly totals
++----------+---------+--------------+-------------+---------+
+| Month    | Records |        Total |     Average | vs Prev |
++----------+---------+--------------+-------------+---------+
+| Sep 2026 |       7 | Rs 32,950.00 | Rs 4,707.14 |       - |
+| Oct 2026 |       9 | Rs 41,650.00 | Rs 4,627.78 |  +26.4% |
+| Nov 2026 |       7 | Rs 35,350.00 | Rs 5,050.00 |  -15.1% |
++----------+---------+--------------+-------------+---------+
+
+MAIN MENU
+  1. Add expense
+  2. List expenses
+  3. Edit expense
+  4. Delete expense
+  5. Monthly totals
+  6. Category summary
+  7. Export report
+  0. Exit
+Choose an option: 6
+
+📊 Category summary
++---------------+---------+--------------+-------+------------+
+| Category      | Records |        Total | Share | Chart      |
++---------------+---------+--------------+-------+------------+
+| Bills         |       3 | Rs 55,500.00 | 50.5% | ██████████ |
+| Food          |       5 | Rs 16,100.00 | 14.6% | ███        |
+| Shopping      |       3 | Rs 14,400.00 | 13.1% | ███        |
+| Health        |       3 |  Rs 7,700.00 |  7.0% | █          |
+| Education     |       2 |  Rs 6,200.00 |  5.6% | █          |
+| Transport     |       4 |  Rs 5,700.00 |  5.2% | █          |
+| Entertainment |       3 |  Rs 4,350.00 |  4.0% | █          |
++---------------+---------+--------------+-------+------------+
+
+MAIN MENU
+  1. Add expense
+  2. List expenses
+  3. Edit expense
+  4. Delete expense
+  5. Monthly totals
+  6. Category summary
+  7. Export report
+  0. Exit
+Choose an option: 7
+
+📤 Export report
+  File name [report.txt] (.txt / .md / .csv): /tmp/session_export.md
+  ✓ Report saved to /tmp/session_export.md
+
+MAIN MENU
+  1. Add expense
+  2. List expenses
+  3. Edit expense
+  4. Delete expense
+  5. Monthly totals
+  6. Category summary
+  7. Export report
+  0. Exit
+Choose an option: 0
+Goodbye! Your data is saved.

@@ -1,0 +1,24 @@
+id,date,category,amount,description
+1,2026-09-01,Bills,18500.00,Electricity bill
+2,2026-09-03,Food,4200.00,Monthly groceries
+3,2026-09-05,Transport,1500.00,Fuel
+4,2026-09-09,Education,3200.00,Online course
+5,2026-09-14,Shopping,2800.00,Clothes
+6,2026-09-20,Entertainment,950.00,Cinema tickets
+7,2026-09-25,Health,1800.00,Pharmacy
+8,2026-10-01,Bills,19200.00,Electricity and gas bill
+9,2026-10-02,Food,5100.00,Monthly groceries
+10,2026-10-06,Transport,1700.00,Fuel
+11,2026-10-08,Food,650.00,Lunch with friends
+12,2026-10-12,Shopping,7500.00,Shoes and bag
+13,2026-10-15,Health,2400.00,Doctor consultation
+14,2026-10-19,Entertainment,1200.00,Streaming and games
+15,2026-10-24,Education,3000.00,Books and stationery
+16,2026-10-29,Transport,900.00,Ride-hailing
+17,2026-11-01,Bills,17800.00,Electricity bill
+18,2026-11-02,Food,4800.00,Monthly groceries
+19,2026-11-04,Transport,1600.00,Fuel
+20,2026-11-07,Entertainment,2200.00,Weekend trip snacks
+21,2026-11-09,Health,3500.00,Medicines and lab test
+22,2026-11-10,Food,1350.00,Dinner out
+23,2026-11-11,Shopping,4100.00,Home items

@@ -1,7 +1,6 @@
 <p align="center">
   <img src="assets/banner.svg" alt="Expense Tracker banner" width="100%">
 </p>
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20Preview-16a34a?style=for-the-badge&logo=githubpages&logoColor=white)](https://laiba-shehbaz.github.io/file-based-expense-tracker/expense_tracker_run.html)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white" alt="Python">
@@ -10,6 +9,8 @@
   <img src="https://img.shields.io/badge/Dependencies-None-16a34a" alt="No dependencies">
   <img src="https://img.shields.io/badge/Domain%203-Task%201-f59e0b" alt="Task 1">
 </p>
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20Preview-16a34a?style=for-the-badge&logo=githubpages&logoColor=white)](https://laiba-shehbaz.github.io/file-based-expense-tracker/expense_tracker_run.html)
 
 <h1 align="center"><img src="assets/icon.svg" width="40" align="top"> Expense Tracker</h1>
 

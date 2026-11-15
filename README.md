@@ -1,6 +1,7 @@
 <p align="center">
   <img src="assets/banner.svg" alt="Expense Tracker banner" width="100%">
 </p>
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Open%20Preview-16a34a?style=for-the-badge&logo=githubpages&logoColor=white)](https://laiba-shehbaz.github.io/file-based-expense-tracker/expense_tracker_run.html)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white" alt="Python">
@@ -231,4 +232,10 @@ Task1_Expense_Tracker/
 
 ---
 
-<p align="center">Made with Python 🐍 | Domain 3 - Task 1</p>
+## 👤 Author & Assessment
+
+| | |
+|---|---|
+| **Author** | Laiba Shehbaz |
+| **Assessment** | Python Programming - Advanced Level |
+| **Domain / Task** | Domain 3 - Task 1 (File-Based Expense Tracker) |

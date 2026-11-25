@@ -233,10 +233,4 @@ Task1_Expense_Tracker/
 
 ---
 
-## 👤 Author & Assessment
-
-| | |
-|---|---|
-| **Author** | Laiba Shehbaz |
-| **Assessment** | Python Programming - Advanced Level |
-| **Domain / Task** | Domain 3 - Task 1 (File-Based Expense Tracker) |
+**Author:** Laiba Shehbaz | File-Based Expense Tracker
